@@ -1,0 +1,1 @@
+# automation-static-image-scanning
